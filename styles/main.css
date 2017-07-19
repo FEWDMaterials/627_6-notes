@@ -1,0 +1,12 @@
+.col {
+	display: inline-block;
+	border: 1px solid red;
+	box-sizing: border-box;
+}
+.col-three_fourths {
+    width: 75%;
+}
+
+.col-one_fourth {
+    width: 25%;
+}
